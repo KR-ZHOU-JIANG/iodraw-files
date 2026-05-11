@@ -11,7 +11,7 @@
           <mxGeometry x="3114" y="349" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="BKJwOrUxNucBaswA723r-4" value="深度梯度强化" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1921" y="447" width="145" height="145" as="geometry" />
+          <mxGeometry x="2690" y="447" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="BKJwOrUxNucBaswA723r-5" value="贡献权重分配" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="4187" y="447" width="145" height="145" as="geometry" />
