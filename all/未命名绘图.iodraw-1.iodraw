@@ -1,0 +1,252 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="n4bm9S73djmYn3gVsy19">
+    <mxGraphModel dx="910" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="enaAznc73aYkdkl4nigq-1" value="底部代表企业区域" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2717" y="292" width="1217" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-2" value="主体框架" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="169" width="2677" height="272" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-3" value="测试设备区域" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="317" width="495" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-4" value="封装设备区域" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="555" y="317" width="685" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-5" value="晶圆制造设备区域" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1261" y="317" width="1316" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-6" value="画面顶部" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="248" y="20" width="2133" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-7" value="中游：半导体设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="788" y="45" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-8" value="晶圆制造设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2283" y="194" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-9" value="封装设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="820" y="194" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-10" value="测试设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="226" y="194" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-11" value="光刻机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1296" y="342" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-12" value="清洗设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1454" y="342" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-13" value="CMP设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1628" y="342" width="122" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-14" value="刻蚀设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="342" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-15" value="涂胶显影设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1974" y="342" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-16" value="薄膜沉积设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="342" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-17" value="离子注入设备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2386" y="342" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-18" value="划片机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="590" y="342" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-19" value="贴片机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="748" y="342" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-20" value="塑封机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="907" y="342" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-21" value="引线键合机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="342" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-22" value="分选机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="75" y="342" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-23" value="测试机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="233" y="342" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-24" value="探针机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="392" y="342" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-25" value="Cmsemicon / 中微半导体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2752" y="342" width="239" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-26" value="FORTUNE / 富创" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3041" y="342" width="176" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-27" value="TINWAH TECH" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3267" y="342" width="159" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-28" value="ACM RESEARCH" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3476" y="342" width="169" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-29" value="拓荆科技 / PIOTECH" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3694" y="342" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.56;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-7" target="enaAznc73aYkdkl4nigq-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2361" y="119" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-7" target="enaAznc73aYkdkl4nigq-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-7" target="enaAznc73aYkdkl4nigq-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="288" y="119" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-8" target="enaAznc73aYkdkl4nigq-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1350" y="267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-8" target="enaAznc73aYkdkl4nigq-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1516" y="267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.61;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-8" target="enaAznc73aYkdkl4nigq-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1689" y="267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-8" target="enaAznc73aYkdkl4nigq-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1862" y="267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-8" target="enaAznc73aYkdkl4nigq-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2052" y="267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-8" target="enaAznc73aYkdkl4nigq-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2258" y="267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-8" target="enaAznc73aYkdkl4nigq-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2464" y="267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-9" target="enaAznc73aYkdkl4nigq-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="644" y="267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.51;entryY=0.01;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-9" target="enaAznc73aYkdkl4nigq-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="803" y="267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-9" target="enaAznc73aYkdkl4nigq-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="961" y="267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-9" target="enaAznc73aYkdkl4nigq-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1135" y="267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-10" target="enaAznc73aYkdkl4nigq-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="129" y="267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.51;entryY=0.01;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-10" target="enaAznc73aYkdkl4nigq-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.88;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-10" target="enaAznc73aYkdkl4nigq-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="446" y="267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.82;entryX=0;entryY=0.06;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-8" target="enaAznc73aYkdkl4nigq-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2597" y="267" />
+              <mxPoint x="2597" y="317" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0;entryY=0.33;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-8" target="enaAznc73aYkdkl4nigq-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2617" y="267" />
+              <mxPoint x="2617" y="317" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0;entryY=0.39;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-8" target="enaAznc73aYkdkl4nigq-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2637" y="267" />
+              <mxPoint x="2637" y="317" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0;entryY=0.41;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-8" target="enaAznc73aYkdkl4nigq-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2657" y="267" />
+              <mxPoint x="2657" y="317" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="enaAznc73aYkdkl4nigq-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=0;entryY=0.41;rounded=0;" edge="1" parent="1" source="enaAznc73aYkdkl4nigq-8" target="enaAznc73aYkdkl4nigq-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2677" y="267" />
+              <mxPoint x="2677" y="317" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
